@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HedgehogDevelopment.PackageInstaller.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SitecoreConnectorFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">_DEV</Value>
+    </Setting>
+    <Setting Name="PackageInstaller_TdsPackageInstaller_TdsPackageInstaller" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://test.garcia-sitecore/_dev/tdspackageinstaller.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
