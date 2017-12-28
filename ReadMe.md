@@ -1,4 +1,8 @@
-﻿Hedgehog Development package deployment command line tool
+﻿<img src="https://www.hhog.com/-/media/PublicImages/Hedgehog/Hedgehog-logo-4color-275x46.jpg" alt="Hedgehog Development" border="0"> 
+
+
+# Overview
+Hedgehog Development package deployment command line tool
 
 This source code is provided as is. Please feel free to modify it to suite your needs. 
 
